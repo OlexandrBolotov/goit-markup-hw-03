@@ -215,6 +215,9 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     column-gap: 24px;
     row-gap: 48PX;
 }
+.portfolio-list-li{
+    width: calc((100% - 48px) / 3);
+}
 .portfolio-cont{
     border-bottom: 1px solid #e7e9fc;
         border-left: 1px solid #e7e9fc;
@@ -238,7 +241,11 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     letter-spacing: 0.02em;
     color: #f4f4fd;
     max-width: 264px;
-    margin-top: 16px;
+    
+}
+.footer-logo{
+    display: inline-block;
+    margin-bottom: 16px;
 }
 /*general*/
 .second-title{
