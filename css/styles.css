@@ -1,0 +1,128 @@
+body{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color:#fff;
+}
+/*header*/
+
+.span-head-logo{
+    color: #2e2f42;
+}
+.main-menu{   
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.main-menu:hover{
+    color: #404bbf;
+}
+.main-menu:focus{
+    color: #404bbf;}
+.main-menu:active {
+    color: #404bbf;
+    text-decoration: underline;
+}
+.adress-link{
+        font-style: normal;
+        
+}
+.contacts-link{
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.contacts-link:hover {
+    color: #404bbf;
+}
+.contacts-link:focus {
+    color: #404bbf;
+}
+/*our team*/
+.our-team-page{
+    background-color: #f4f4fd;
+}
+/*main page*/
+.main-page {
+    background-color: #2e2f42;
+    ;
+}
+.main-title {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff
+}
+.main-button {
+
+    background: #4d5ae5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    cursor: pointer;
+}
+.main-button:hover{
+    background-color: #404BBF;
+}
+.main-button:focus{
+    background-color: #404BBF;
+}
+/*general*/
+.second-title{
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-transform: capitalize;
+        color: #2e2f42;
+}
+.list-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.list-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.list-background{
+    background-color:#fff;
+}
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+/*footer*/
+.footer-page{
+    background-color: #2e2f42;
+}
+.span-footer-logo{
+    color:#f4f4fd }
+.footer-text{
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
+}
